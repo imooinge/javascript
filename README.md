@@ -1,2 +1,2 @@
 # javascript
-Learning JavaScript
+Learning JavaScript ^ ^
